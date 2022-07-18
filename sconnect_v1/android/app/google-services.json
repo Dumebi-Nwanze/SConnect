@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "701608064897",
+    "project_id": "sconnect-aca0c",
+    "storage_bucket": "sconnect-aca0c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:701608064897:android:2e80d5554610aff0a41a80",
+        "android_client_info": {
+          "package_name": "com.example.sconnect_v1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "701608064897-8i75s03mil8ecgv9emfhhroiqaf3p11f.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.sconnect_v1",
+            "certificate_hash": "cbf70ffda467bbe0512c6579bfcc66216d65db31"
+          }
+        },
+        {
+          "client_id": "701608064897-7kq3e0h59ovc27ur50418ps6ghi0atjm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC8fiqZk_vsjZ82zOSSS690ltu4IyIapZU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "701608064897-7kq3e0h59ovc27ur50418ps6ghi0atjm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
